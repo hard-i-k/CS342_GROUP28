@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+scipy
+scikit-image
+matplotlib
+pandas
+Pillow
+streamlit-webrtc
